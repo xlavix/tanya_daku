@@ -19,6 +19,9 @@ Widget utama aplikasi dan mengarahkan ke `HalamanBola`.
 - `StatefulWidget` yang artinya tampilan dapat berubah tergantung pemakaian.
 - Variabel `NomorBola` untuk menyimpan angka acak dari 1 sampai 5, lalu akan menampilkan gambar bola sesuai dari `ball1.png` sampai dengan `ball5.png`.
 
+# Screeshot Tampilan
+<img src="images/tanya_daku.png" width=300><br>
+
 # Langkah-Langkah Menjalankan Project
 Pastikan kamu sudah menginstall dependensi terlebih dahulu:
 
